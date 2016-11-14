@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [tests]" parallel="none">
+  <listeners>
+    <listener class-name="base.TestCaseListener"/>
+  </listeners>
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="testcase.DebugCase">
+        <methods>
+          <include name="loginAmr"/>
+          <include name="caseAfterTest"/>
+          <include name="caseBeforeTest"/>
+        </methods>
+      </class> <!-- testcase.DebugCase -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [tests] -->

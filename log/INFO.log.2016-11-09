@@ -1,0 +1,259 @@
+2016-11-09 15:13:25 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:13:43 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:13:52 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:13:53 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:13:55 ERROR  [base.MyTestngListener] [main] 44: 用例出错，截图失败
+java.lang.NullPointerException
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:212)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at util.ScreenShot.ImgShot(ScreenShot.java:103)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:41)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-09 15:13:55 INFO   [base.MyTestngListener] [main] 46: 用例失败，截图成功，截图文件路径：null
+2016-11-09 15:13:55 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:13:56 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:13:56 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:13:57 ERROR  [base.MyTestngListener] [main] 44: 用例出错，截图失败
+java.lang.NullPointerException
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:212)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at util.ScreenShot.ImgShot(ScreenShot.java:103)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:41)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-09 15:13:57 INFO   [base.MyTestngListener] [main] 46: 用例失败，截图成功，截图文件路径：null
+2016-11-09 15:13:57 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:13:57 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:13:57 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:13:58 ERROR  [base.MyTestngListener] [main] 44: 用例出错，截图失败
+java.lang.NullPointerException
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:212)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at util.ScreenShot.ImgShot(ScreenShot.java:103)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:41)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-09 15:13:58 INFO   [base.MyTestngListener] [main] 46: 用例失败，截图成功，截图文件路径：null
+2016-11-09 15:13:58 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:16:47 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:16:52 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:16:54 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:16:55 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:16:58 INFO   [base.MyTestngListener] [main] 46: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_16_55.png
+2016-11-09 15:16:58 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:16:59 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:16:59 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:17:00 INFO   [base.MyTestngListener] [main] 46: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_17_00.png
+2016-11-09 15:17:00 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:17:01 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:17:01 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:17:01 INFO   [base.MyTestngListener] [main] 46: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_17_01.png
+2016-11-09 15:17:01 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:25:06 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:25:11 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:25:13 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:25:14 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:25:16 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_25_14.jpg
+2016-11-09 15:25:16 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:25:17 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:25:17 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:25:18 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_25_18.jpg
+2016-11-09 15:25:18 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:25:19 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:25:19 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:25:19 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_25_19.jpg
+2016-11-09 15:25:19 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:26:09 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:26:14 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:26:16 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:26:16 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:26:19 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_26_17.jpg
+2016-11-09 15:26:19 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:26:20 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:26:20 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:26:20 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_26_20.jpg
+2016-11-09 15:26:20 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:26:21 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:26:22 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:26:22 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：./test-output/errorImage\2016_11_09_15_26_22.jpg
+2016-11-09 15:26:22 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:33:54 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:33:59 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:34:02 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:34:02 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:34:04 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_34_02.jpg
+2016-11-09 15:34:04 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:34:05 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:34:05 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:34:05 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_34_05.jpg
+2016-11-09 15:34:05 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:34:06 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:34:06 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:34:07 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_34_07.jpg
+2016-11-09 15:34:07 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:47:26 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:47:33 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:47:43 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:47:43 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:47:45 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_47_43.jpg
+2016-11-09 15:47:45 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:47:46 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:47:46 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:47:47 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_47_47.jpg
+2016-11-09 15:47:47 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:47:48 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:47:48 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:47:49 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_47_48.jpg
+2016-11-09 15:47:49 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:48:48 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:48:54 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:48:57 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:48:57 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:49:00 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_48_58.jpg
+2016-11-09 15:49:00 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:49:01 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:49:01 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:49:02 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_49_01.jpg
+2016-11-09 15:49:02 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:49:03 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:49:03 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:49:04 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_49_03.jpg
+2016-11-09 15:49:04 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:50:05 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:50:10 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:50:16 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:50:16 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:50:18 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_50_16.jpg
+2016-11-09 15:50:18 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:50:19 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:50:19 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:50:20 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_50_19.jpg
+2016-11-09 15:50:20 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:50:20 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:50:21 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:50:21 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_50_21.jpg
+2016-11-09 15:50:21 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:52:04 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:52:10 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:52:12 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:52:12 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:52:15 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_52_13.jpg
+2016-11-09 15:52:15 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:52:17 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:52:17 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:52:17 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_52_17.jpg
+2016-11-09 15:52:17 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:52:19 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:52:19 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:52:20 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_52_20.jpg
+2016-11-09 15:52:20 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:53:18 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:53:23 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:53:27 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:53:27 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:53:30 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_53_27.jpg
+2016-11-09 15:53:30 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:53:31 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:53:32 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:53:32 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_53_32.jpg
+2016-11-09 15:53:32 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:53:33 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:53:34 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:53:34 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_53_34.jpg
+2016-11-09 15:53:34 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:55:40 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:55:45 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:55:48 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:55:48 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:55:51 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_55_49.jpg
+2016-11-09 15:55:51 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:55:52 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:55:52 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:55:53 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_55_53.jpg
+2016-11-09 15:55:53 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:55:54 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:55:54 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:55:55 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_55_55.jpg
+2016-11-09 15:55:55 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:56:40 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:56:45 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:56:47 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:56:47 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:56:50 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_56_48.jpg
+2016-11-09 15:56:50 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:56:51 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:56:51 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:56:51 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_56_51.jpg
+2016-11-09 15:56:51 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:56:52 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:56:52 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:56:53 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_56_53.jpg
+2016-11-09 15:56:53 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-09 15:58:42 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-09 15:58:47 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-09 15:58:49 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:58:49 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:58:52 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_58_50.jpg
+2016-11-09 15:58:52 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-09 15:58:53 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-09 15:58:53 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+2016-11-09 15:58:54 INFO   [base.MyTestngListener] [main] 42: 用例testcase.DebugCase2执行失败，截图路径：./test-output/errorImage\2016_11_09_15_58_54.jpg
+2016-11-09 15:58:54 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!

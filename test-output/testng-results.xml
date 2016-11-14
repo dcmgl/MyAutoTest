@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tests" duration-ms="44873" started-at="2016-11-10T09:45:48Z" finished-at="2016-11-10T09:46:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44873" started-at="2016-11-10T09:45:48Z" finished-at="2016-11-10T09:46:33Z">
+      <class name="testcase.DebugCase">
+        <test-method status="PASS" signature="caseBeforeTest()[pri:0, instance:testcase.DebugCase@223f6902]" name="caseBeforeTest" is-config="true" duration-ms="7302" started-at="2016-11-10T17:45:48Z" finished-at="2016-11-10T17:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- caseBeforeTest -->
+        <test-method status="PASS" signature="loginAmr()[pri:0, instance:testcase.DebugCase@223f6902]" name="loginAmr" duration-ms="35461" started-at="2016-11-10T17:45:55Z" finished-at="2016-11-10T17:46:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAmr -->
+        <test-method status="PASS" signature="caseAfterTest()[pri:0, instance:testcase.DebugCase@223f6902]" name="caseAfterTest" is-config="true" duration-ms="2037" started-at="2016-11-10T17:46:31Z" finished-at="2016-11-10T17:46:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- caseAfterTest -->
+      </class> <!-- testcase.DebugCase -->
+    </test> <!-- Test -->
+  </suite> <!-- tests -->
+</testng-results>

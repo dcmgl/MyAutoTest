@@ -1,0 +1,78 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .classpath
+#	new file:   bin/base/InitBrowser.class
+#	modified:   bin/base/MyBrowser.class
+#	new file:   bin/base/MyTestngListener.class
+#	modified:   bin/base/MyTestngRetry.class
+#	modified:   bin/base/MyWebDriverEventListener.class
+#	modified:   bin/base/SetUpProAndBrowser.class
+#	new file:   bin/base/TestCaseListener.class
+#	new file:   bin/base/TestProperties.class
+#	modified:   bin/pages/AmrPage.class
+#	new file:   bin/pages/AssetManagerView.class
+#	modified:   bin/pages/LoginPage.class
+#	modified:   bin/testcase/DebugCase.class
+#	new file:   bin/testcase/DebugCase2.class
+#	modified:   bin/testcase/TestCase.class
+#	new file:   bin/util/ScreenShot$1.class
+#	new file:   bin/util/ScreenShot$2.class
+#	new file:   bin/util/ScreenShot.class
+#	modified:   conf/system.properties
+#	modified:   conf/testng.xml
+#	modified:   log/ERROR.log
+#	new file:   log/ERROR.log.2016-11-07
+#	new file:   log/ERROR.log.2016-11-08
+#	new file:   log/ERROR.log.2016-11-09
+#	modified:   log/INFO.log
+#	new file:   log/INFO.log.2016-11-07
+#	new file:   log/INFO.log.2016-11-08
+#	new file:   log/INFO.log.2016-11-09
+#	new file:   src/base/InitBrowser.java
+#	new file:   src/base/MyTestngListener.java
+#	modified:   src/base/MyTestngRetry.java
+#	modified:   src/base/MyWebDriverEventListener.java
+#	modified:   src/base/SetUpProAndBrowser.java
+#	new file:   src/base/TestCaseListener.java
+#	new file:   src/base/TestProperties.java
+#	new file:   src/pages/AssetManagerView.java
+#	modified:   src/testcase/DebugCase.java
+#	new file:   src/testcase/DebugCase2.java
+#	modified:   src/testcase/TestCase.java
+#	new file:   src/util/ScreenShot.java
+#	modified:   test-output/Default suite/Default test.html
+#	modified:   test-output/Default suite/Default test.xml
+#	modified:   test-output/Default suite/testng-failed.xml
+#	modified:   test-output/emailable-report.html
+#	new file:   test-output/errorImage/2016_11_10_17_06_57.jpg
+#	new file:   test-output/errorImage/2016_11_10_17_11_08.jpg
+#	new file:   test-output/errorImage/2016_11_10_17_16_46.jpg
+#	new file:   test-output/errorImage/2016_11_10_17_26_51.jpg
+#	modified:   test-output/index.html
+#	modified:   test-output/junitreports/TEST-testcase.DebugCase.xml
+#	new file:   test-output/junitreports/TEST-testcase.DebugCase2.xml
+#	modified:   test-output/old/Default suite/classes.html
+#	modified:   test-output/old/Default suite/methods-alphabetical.html
+#	modified:   test-output/old/Default suite/methods.html
+#	modified:   test-output/old/Default suite/testng.xml.html
+#	modified:   test-output/old/Default suite/toc.html
+#	modified:   test-output/old/index.html
+#	modified:   test-output/old/tests/methods-alphabetical.html
+#	modified:   test-output/old/tests/methods.html
+#	modified:   test-output/old/tests/testng.xml.html
+#	modified:   test-output/old/tests/toc.html
+#	modified:   test-output/testng-failed.xml
+#	modified:   test-output/testng-results.xml
+#	modified:   test-output/tests/Test.html
+#	modified:   test-output/tests/Test.xml
+#	modified:   test-output/tests/testng-failed.xml
+#
+# Changes not staged for commit:
+#	deleted:    bin/.gitignore
+#
+

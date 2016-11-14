@@ -1,0 +1,1369 @@
+2016-11-06 09:03:06 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:03:08 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:03:14 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:03:14 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:03:15 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:03:15 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:03:28 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:03:28 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir3516_14072}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5cd176befd80bf73324f1606090a7393
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:03:28 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:03:28 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:03:31 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:03:31 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:03:32 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:03:33 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:03:34 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:03:35 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:03:35 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:10:45 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:10:47 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:10:49 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:10:49 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:10:50 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:10:51 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:11:04 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:11:04 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir8628_10035}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d229a58bceeb6d559188d4aa42585a0d
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:11:04 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:11:04 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:11:06 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:11:07 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:11:07 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:11:08 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:11:09 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:11:10 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:11:11 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:13:20 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:13:22 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:13:24 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:13:24 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:13:25 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:13:26 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:13:39 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:13:39 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir11140_30455}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c91290a7f249866b47d1dfe45a29195b
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:13:39 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:13:39 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:13:42 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:13:42 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:13:42 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:13:43 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:13:44 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:13:45 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:13:46 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:16:10 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:16:12 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:16:14 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:16:14 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:16:15 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:16:16 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:16:29 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:16:29 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir7728_11484}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 9e975fe00980fc72581e73d9e13bc9ed
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:16:29 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:16:29 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:16:31 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:16:31 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:16:32 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:16:33 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:16:34 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:16:35 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:16:36 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:24:36 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:24:39 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:24:40 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:24:40 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:24:41 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:24:42 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:24:55 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:24:55 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir4948_30950}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 82e20002fad59f55cf5a11636a2f8149
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:24:55 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:24:55 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:24:58 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:24:58 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:24:58 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:24:59 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:25:00 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:25:01 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:25:02 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:29:03 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:29:05 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:29:07 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:29:07 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:29:07 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:29:08 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:29:21 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:29:21 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir10104_11634}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: dd775c44719050044768bb5466b9f6d0
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:29:21 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:29:21 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:29:24 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:29:24 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:29:25 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:29:26 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:29:27 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:29:27 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:29:28 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:30:36 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:30:38 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:30:40 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:30:40 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:30:41 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:30:42 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:30:54 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:30:54 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir13612_22424}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2652909dea20f329c6065f8875cbfd96
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:30:54 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:30:55 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:30:57 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:30:57 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:30:58 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:30:59 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:31:00 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:31:01 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:31:02 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:37:45 INFO   [base.SetUpProAndBrowser] [main] 72: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:37:47 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-06 09:37:49 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:37:49 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:37:49 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:37:50 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:38:03 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:38:03 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir7184_19995}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=52.0.2743.116, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fd00bb30ab55e19f06a4bdc50a522738
+*** Element info: {Using=id, value=loginName}
+2016-11-06 09:38:03 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:38:03 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:38:06 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:38:06 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:38:07 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:38:08 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:38:08 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:38:09 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:38:10 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:50:54 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:50:56 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 09:50:58 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:50:58 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:50:59 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:51:00 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:51:03 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:51:13 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:51:13 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.10 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 10d2a6cf086aa2cb436aae171dd9b3bb
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir13652_6130}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 09:51:13 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:51:13 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:51:15 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:51:17 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-06 09:51:17 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:51:17 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:51:18 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:51:19 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:51:19 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:51:20 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:51:21 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:51:22 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:51:22 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:51:23 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:51:26 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 09:51:26 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 09:57:45 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:57:48 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 09:57:49 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:57:50 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:57:50 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:57:51 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:57:55 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:58:05 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:58:05 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: a139f4fb1c209bddb516c12cdecaa591
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir9528_7516}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 09:58:05 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:58:05 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:58:06 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:58:08 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:58:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:58:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:58:10 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:58:11 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:58:11 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:58:12 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:58:13 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:58:14 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:58:14 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:58:15 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:58:18 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 09:58:18 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 09:58:54 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 09:58:56 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 09:58:58 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 09:58:58 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:58:59 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:59:00 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 09:59:04 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:59:14 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 09:59:14 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: aeb420865ae970e1c3a8dc2edf4e0491
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir9652_6423}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 09:59:14 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 09:59:14 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 09:59:15 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:59:17 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 09:59:17 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:59:18 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 09:59:19 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 09:59:20 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:59:20 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:59:21 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:59:21 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-06 09:59:22 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:59:22 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 09:59:23 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 09:59:26 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 09:59:26 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 10:00:04 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 10:00:07 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 10:00:08 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 10:00:08 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 10:00:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 10:00:10 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 10:00:14 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 10:00:24 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 10:00:24 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.15 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 42cdd6ef501fe520b681cdd4df2ea34d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir6232_13878}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 10:00:24 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 10:00:34 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 10:00:34 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"amr_unasset_view_"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=amr_unasset_view_}
+Session ID: 42cdd6ef501fe520b681cdd4df2ea34d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir6232_13878}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 10:00:34 INFO   [base.MyTestngRetry] [main] 17: loginAmr will be retried!!!
+2016-11-06 10:00:35 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 10:00:45 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 10:00:45 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 42cdd6ef501fe520b681cdd4df2ea34d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir6232_13878}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 10:00:45 INFO   [base.MyTestngRetry] [main] 17: loginAmr will be retried!!!
+2016-11-06 10:00:45 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 10:00:55 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 10:00:55 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 42cdd6ef501fe520b681cdd4df2ea34d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir6232_13878}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 10:00:55 INFO   [base.MyTestngRetry] [main] 17: loginAmr will be retried!!!
+2016-11-06 10:00:56 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 10:01:06 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 10:01:06 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.2', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 42cdd6ef501fe520b681cdd4df2ea34d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir6232_13878}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 10:01:06 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 10:01:06 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 16:03:36 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 16:03:43 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 16:03:49 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 16:03:49 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:03:50 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:03:51 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 16:03:55 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:04:05 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 16:04:05 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.17', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: d059759d463757cfb0bd6bc9377aa429
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir3884_3526}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 16:04:05 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 16:04:06 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 16:04:07 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:04:09 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 16:04:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:04:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:04:10 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 16:04:11 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:04:11 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 16:04:13 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:04:13 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-06 16:04:14 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:04:14 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 16:04:15 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:04:18 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 16:04:18 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 16:04:45 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 16:04:47 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 16:04:49 INFO   [base.MyWebDriverEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-06 16:04:49 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:04:49 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:04:50 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-06 16:04:54 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:05:04 ERROR  [base.MyWebDriverEventListener] [main] 63: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 16:05:04 ERROR  [base.MyWebDriverEventListener] [main] 68: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.17', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 76feca3d695512c38d036cca35c7fbe7
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir10604_11378}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 16:05:04 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 16:05:04 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-06 16:05:06 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:05:08 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 16:05:08 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:05:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:05:10 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-06 16:05:12 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:05:12 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 16:05:14 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:05:14 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-06 16:05:17 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:05:17 INFO   [base.MyWebDriverEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-06 16:05:19 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-06 16:05:22 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 16:05:22 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 16:19:25 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 16:19:27 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 16:19:29 INFO   [base.MyWebDriverEventListener] [main] 39: Navigate to the url is :http://192.168.186.66
+2016-11-06 16:19:29 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:19:30 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:19:31 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：登 录
+2016-11-06 16:19:37 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:19:47 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 16:19:47 ERROR  [base.MyWebDriverEventListener] [main] 75: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.17', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: 6a887a93e94eef53eb7fd262f550520d
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir13356_23750}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 16:19:47 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 16:19:47 INFO   [base.MyWebDriverEventListener] [main] 31: 即将点击按钮未知资产
+2016-11-06 16:19:49 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:19:51 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 16:19:51 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:19:52 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:19:53 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：1
+2016-11-06 16:19:55 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:19:55 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：查询
+2016-11-06 16:19:57 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:19:57 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：重置
+2016-11-06 16:19:59 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:19:59 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：查询
+2016-11-06 16:20:01 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:20:04 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 16:20:04 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 16:29:37 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 16:29:39 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 16:29:42 INFO   [base.MyWebDriverEventListener] [main] 39: Navigate to the url is :http://192.168.186.66
+2016-11-06 16:29:42 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:29:43 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:29:44 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：登 录
+2016-11-06 16:29:50 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:30:00 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 16:30:00 ERROR  [base.MyWebDriverEventListener] [main] 75: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.17', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: d98d84993d64378f94fd8799c07c26bc
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir4324_30692}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 16:30:00 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 16:30:00 INFO   [base.MyWebDriverEventListener] [main] 31: 没有获取到元素a的名称
+2016-11-06 16:30:02 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:30:04 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 16:30:04 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:30:05 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:30:06 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：1
+2016-11-06 16:30:08 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:30:08 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：查询
+2016-11-06 16:30:10 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:30:10 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：重置
+2016-11-06 16:30:12 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:30:12 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：查询
+2016-11-06 16:30:14 INFO   [base.MyWebDriverEventListener] [main] 62: afterClickOn is worked!
+2016-11-06 16:30:17 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 16:30:17 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-06 16:32:40 INFO   [base.SetUpProAndBrowser] [main] 73: property file K:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-06 16:32:42 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-06 16:32:45 INFO   [base.MyWebDriverEventListener] [main] 38: Navigate to the url is :http://192.168.186.66
+2016-11-06 16:32:45 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:32:46 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:32:47 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：登 录
+2016-11-06 16:32:54 INFO   [base.MyWebDriverEventListener] [main] 61: afterClickOn is worked!
+2016-11-06 16:33:04 ERROR  [base.MyWebDriverEventListener] [main] 69: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-06 16:33:04 ERROR  [base.MyWebDriverEventListener] [main] 74: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=52.0.2743.116)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 10.0 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DESKTOP-SHVMH5I', ip: '172.16.6.17', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.7.0_79'
+*** Element info: {Using=id, value=loginName}
+Session ID: f8caee5e0a5dad2fbe8ab34bba684551
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=WIN8_1, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\dcmgl\AppData\Local\Temp\scoped_dir13180_12399}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=52.0.2743.116, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-06 16:33:04 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-06 16:33:04 INFO   [base.MyWebDriverEventListener] [main] 29: 即将点击按钮：未知资产
+2016-11-06 16:33:06 INFO   [base.MyWebDriverEventListener] [main] 61: afterClickOn is worked!
+2016-11-06 16:33:08 INFO   [testcase.DebugCase] [main] 22: 进入问题资产成功
+2016-11-06 16:33:08 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:33:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-06 16:33:10 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：1
+2016-11-06 16:33:12 INFO   [base.MyWebDriverEventListener] [main] 61: afterClickOn is worked!
+2016-11-06 16:33:12 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：查询
+2016-11-06 16:33:14 INFO   [base.MyWebDriverEventListener] [main] 61: afterClickOn is worked!
+2016-11-06 16:33:14 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：重置
+2016-11-06 16:33:16 INFO   [base.MyWebDriverEventListener] [main] 61: afterClickOn is worked!
+2016-11-06 16:33:16 INFO   [base.MyWebDriverEventListener] [main] 27: 即将点击按钮：查询
+2016-11-06 16:33:18 INFO   [base.MyWebDriverEventListener] [main] 61: afterClickOn is worked!
+2016-11-06 16:33:21 INFO   [testcase.DebugCase] [main] 28: broswer is tear down!
+2016-11-06 16:33:21 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-07 14:04:30 INFO   [base.SetUpProAndBrowser] [main] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:04:49 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-07 14:04:55 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:04:55 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:04:56 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:04:57 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：登 录
+2016-11-07 14:05:02 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:05:13 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-07 14:05:13 ERROR  [base.MyWebDriverEventListener] [main] 75: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: b517ed9a91cb4bb66dd71c0e832ba46e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10136_16150}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:05:13 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-07 14:05:13 INFO   [base.MyWebDriverEventListener] [main] 40: 即将点击按钮：未知资产
+2016-11-07 14:05:15 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:05:17 INFO   [testcase.DebugCase] [main] 21: 进入未知资产成功
+2016-11-07 14:05:17 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:05:18 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:05:20 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：1
+2016-11-07 14:05:22 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:05:22 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：查询
+2016-11-07 14:05:25 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:05:25 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：重置
+2016-11-07 14:05:27 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:05:27 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：查询
+2016-11-07 14:05:29 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:05:32 INFO   [testcase.DebugCase] [main] 46: broswer is tear down!
+2016-11-07 14:05:32 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-07 14:16:01 INFO   [base.SetUpProAndBrowser] [main] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:16:08 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-07 14:16:12 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:16:13 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:16:14 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:16:16 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：登 录
+2016-11-07 14:16:20 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:16:30 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-07 14:16:30 ERROR  [base.MyWebDriverEventListener] [main] 75: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: b53b4b3847b92c0e24e8695812835e15
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7564_14129}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:16:30 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-07 14:16:30 INFO   [base.MyWebDriverEventListener] [main] 40: 即将点击按钮：未知资产
+2016-11-07 14:16:32 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:16:34 INFO   [testcase.DebugCase] [main] 21: 进入未知资产成功
+2016-11-07 14:16:35 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:16:36 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-07 14:16:37 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：1
+2016-11-07 14:16:39 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:16:39 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：查询
+2016-11-07 14:16:41 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:16:42 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：重置
+2016-11-07 14:16:44 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:16:44 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：查询
+2016-11-07 14:16:46 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 14:16:49 INFO   [testcase.DebugCase] [main] 46: broswer is tear down!
+2016-11-07 14:16:49 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-07 14:21:18 INFO   [base.SetUpProAndBrowser] [main] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:21:23 INFO   [base.SetUpProAndBrowser] [main] 50: ChromeDriver has been started!
+2016-11-07 14:21:25 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:21:26 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:21:26 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:21:27 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:21:27 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:21:27 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:21:28 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:21:28 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:21:29 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:21:30 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:21:30 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:21:30 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:21:32 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:21:33 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:21:33 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:21:33 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:21:34 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:21:34 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:21:34 INFO   [testcase.DebugCase] [main] 46: broswer is tear down!
+2016-11-07 14:21:34 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-07 14:23:22 INFO   [base.SetUpProAndBrowser] [TestNG] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:23:22 INFO   [base.SetUpProAndBrowser] [TestNG] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:23:22 INFO   [base.SetUpProAndBrowser] [TestNG] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:23:30 INFO   [base.SetUpProAndBrowser] [TestNG] 50: ChromeDriver has been started!
+2016-11-07 14:23:30 INFO   [base.SetUpProAndBrowser] [TestNG] 50: ChromeDriver has been started!
+2016-11-07 14:23:30 INFO   [base.SetUpProAndBrowser] [TestNG] 50: ChromeDriver has been started!
+2016-11-07 14:23:34 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:23:35 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:23:35 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:23:35 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:23:35 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:23:36 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:36 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:36 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:37 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:38 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:38 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:38 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:38 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:38 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:40 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:40 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:40 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:40 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:40 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:41 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:41 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:41 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:41 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:23:42 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:23:42 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:23:43 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:23:43 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:23:44 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:23:44 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:23:45 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:23:46 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:23:46 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:23:47 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:23:47 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:23:48 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:23:48 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:23:48 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:23:48 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:23:48 INFO   [testcase.DebugCase] [main] 47: broswer is tear down!
+2016-11-07 14:23:48 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-07 14:37:10 INFO   [base.SetUpProAndBrowser] [TestNG] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:37:10 INFO   [base.SetUpProAndBrowser] [TestNG] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:37:10 INFO   [base.SetUpProAndBrowser] [TestNG] 73: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:37:11 INFO   [testcase.DebugCase] [main] 48: broswer is tear down!
+2016-11-07 14:39:50 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:39:50 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:39:50 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:39:50 INFO   [testcase.DebugCase] [main] 48: broswer is tear down!
+2016-11-07 14:40:55 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:40:55 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:40:55 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:41:02 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:41:02 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:41:02 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:41:09 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:41:11 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:41:11 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :http://192.168.186.66
+2016-11-07 14:41:11 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:41:12 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:41:12 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:41:16 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:41:16 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:41:20 INFO   [base.MyWebDriverEventListener] [TestNG] 19: beforeChangeValueOf is worked!
+2016-11-07 14:41:22 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:41:22 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:41:24 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-07 14:41:24 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.81 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 45c59917d5219a8110d76e4c93f99834
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10476_14435}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:41:24 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：登 录
+2016-11-07 14:41:26 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:41:26 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:41:27 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 14:41:28 INFO   [pages.LoginPage] [TestNG] 35: 登录失败,窗口提示信息是：请输入登录帐号
+2016-11-07 14:41:28 INFO   [testcase.DebugCase] [main] 48: broswer is tear down!
+2016-11-07 14:48:36 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:48:36 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:48:36 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:48:41 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:48:43 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:48:43 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:48:50 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 14:48:52 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 14:48:52 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 14:49:02 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 14:49:02 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: no such element: Unable to locate element: {"method":"id","selector":"s_ipt"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12.59 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=s_ipt}
+Session ID: 4eefcf41e49c7c6a589bf8373987935a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11552_4238}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:49:12 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 14:49:12 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: no such element: Unable to locate element: {"method":"id","selector":"s_ipt"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=s_ipt}
+Session ID: 4eefcf41e49c7c6a589bf8373987935a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11552_4238}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:49:22 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 14:49:22 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: no such element: Unable to locate element: {"method":"id","selector":"s_ipt"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=s_ipt}
+Session ID: 4eefcf41e49c7c6a589bf8373987935a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11552_4238}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:49:22 INFO   [testcase.DebugCase2] [main] 48: broswer is tear down!
+2016-11-07 14:53:10 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:53:10 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:53:10 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:53:17 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:53:17 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:53:17 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:53:18 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:53:18 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:53:18 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:53:26 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:53:26 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:53:28 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:55:20 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:55:20 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:55:20 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 14:55:28 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:55:28 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:55:29 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 14:55:36 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 14:55:37 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 14:55:38 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 14:55:46 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 14:55:46 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: no such element: Unable to locate element: {"method":"id","selector":"s_ipt"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.17 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=s_ipt}
+Session ID: 799fbfe63580da5870b4d65b20c203ef
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir13948_22189}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:55:47 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 14:55:47 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: no such element: Unable to locate element: {"method":"id","selector":"s_ipt"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.16 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=s_ipt}
+Session ID: 784cb4f93096dbbbe4e6f7c51fb8f51e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7604_17684}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 14:55:48 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 14:55:48 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: no such element: Unable to locate element: {"method":"id","selector":"s_ipt"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.09 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=s_ipt}
+Session ID: d5a6f91a6fab9f21fc4c037581e0086a
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir14024_11006}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:01:05 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:01:06 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:01:06 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:01:12 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:01:12 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:01:13 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:01:21 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:01:22 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:01:22 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: invalid selector: Unable to locate an element with the xpath expression //input[@type='text']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@type='text'])' is not a valid XPath expression.
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 852 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@type='text'])}
+Session ID: 9ec20aeed18177a5abac7ddebe61c5d2
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir13724_11528}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:01:22 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:01:23 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:01:23 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: invalid selector: Unable to locate an element with the xpath expression //input[@type='text']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@type='text'])' is not a valid XPath expression.
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 439 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@type='text'])}
+Session ID: 45952b3dff053c82f37f4a49855233a5
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10200_8946}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:01:23 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:01:23 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:01:23 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: invalid selector: Unable to locate an element with the xpath expression //input[@type='text']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@type='text'])' is not a valid XPath expression.
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 239 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@type='text'])}
+Session ID: 62d9a8ea78caf19b7586fd12ac4b4ca3
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11896_721}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:04:09 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:04:09 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:04:09 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:04:17 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:04:17 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:04:17 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:04:24 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:04:25 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:04:25 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: invalid selector: Unable to locate an element with the xpath expression //input[@value='百度一下']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@value='百度一下'])' is not a valid XPath expression.
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 446 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@value='百度一下'])}
+Session ID: 994865d29fd151082735b495cf0d2e87
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9716_11866}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:04:25 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:04:26 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:04:26 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: invalid selector: Unable to locate an element with the xpath expression //input[@value='百度一下']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@value='百度一下'])' is not a valid XPath expression.
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 488 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@value='百度一下'])}
+Session ID: 41604293a8b5dd7fdf7cbceeec28c616
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11932_3371}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:04:27 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:04:27 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:04:27 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: invalid selector: Unable to locate an element with the xpath expression //input[@value='百度一下']) because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@value='百度一下'])' is not a valid XPath expression.
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 259 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@value='百度一下'])}
+Session ID: c90a9a97687e387fb954a6351dceb48b
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir13828_19869}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:11:43 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:11:43 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:11:43 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:11:49 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:11:50 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:11:50 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:12:00 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:12:00 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:12:06 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:12:06 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:12:08 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:12:08 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:12:09 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:12:11 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:12:12 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:34:53 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:34:53 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:34:53 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:35:00 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:35:05 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:35:06 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:35:11 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:35:13 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:35:14 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:35:23 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:35:23 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:35:23 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:35:23 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:35:27 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:35:28 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:51:03 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:51:03 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:51:03 INFO   [base.SetUpProAndBrowser] [TestNG] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:51:14 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:51:15 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:51:15 INFO   [base.SetUpProAndBrowser] [TestNG] 52: ChromeDriver has been started!
+2016-11-07 15:51:29 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:51:29 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:51:29 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:51:30 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:51:30 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:51:31 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:51:31 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:51:31 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.17 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 7cb79dbd003395bec5cc50bd61e96a57
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11936_25257}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:51:31 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.19 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 7cb79dbd003395bec5cc50bd61e96a57
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir11936_25257}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:51:32 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:51:32 INFO   [org.apache.http.impl.execchain.RetryExec] [Forwarding quit on session 7cb79dbd003395bec5cc50bd61e96a57 to remote] 94: I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://localhost:27724: The target server failed to respond
+2016-11-07 15:51:32 INFO   [org.apache.http.impl.execchain.RetryExec] [Forwarding quit on session 7cb79dbd003395bec5cc50bd61e96a57 to remote] 110: Retrying request to {}->http://localhost:27724
+2016-11-07 15:51:34 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:51:34 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: Error communicating with the remote browser. It may have died.
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Driver info: driver.version: EventFiringWebDriver
+2016-11-07 15:51:34 INFO   [testcase.DebugCase2] [main] 48: broswer is tear down!
+2016-11-07 15:55:51 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 15:55:56 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 15:55:58 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:55:59 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:56:00 INFO   [base.MyWebDriverEventListener] [TestNG] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 15:56:01 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:56:01 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:56:01 INFO   [base.MyWebDriverEventListener] [TestNG] 38: 即将点击按钮：百度一下
+2016-11-07 15:56:02 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:56:02 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 989 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: eb0e5a79b3f52f83b715ae4a3a9030ec
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir13524_5326}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:56:02 ERROR  [base.MyWebDriverEventListener] [TestNG] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 15:56:02 ERROR  [base.MyWebDriverEventListener] [TestNG] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.05 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: eb0e5a79b3f52f83b715ae4a3a9030ec
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir13524_5326}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 15:56:04 INFO   [base.MyWebDriverEventListener] [TestNG] 55: afterClickOn is worked!
+2016-11-07 15:56:06 INFO   [testcase.DebugCase2] [main] 48: broswer is tear down!
+2016-11-07 16:47:12 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 16:47:18 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 16:47:22 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 16:47:22 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 16:47:25 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 16:47:29 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 16:49:11 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 16:49:16 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 16:49:18 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 16:49:19 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 16:49:21 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 16:49:26 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 16:52:35 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 16:52:40 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 16:52:43 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 16:52:44 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 16:52:47 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 16:52:51 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 16:56:54 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 16:57:00 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 16:57:03 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 16:57:03 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 16:57:07 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 16:57:11 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:18:26 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:18:31 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:18:35 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:18:45 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 17:18:45 ERROR  [base.MyWebDriverEventListener] [main] 75: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='百度下']"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@value='百度下']}
+Session ID: 73fe9603ffd4d7bb706d826b458c8229
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir12688_13486}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 17:18:47 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:21:06 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:21:11 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:21:16 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:21:26 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 17:21:26 ERROR  [base.MyWebDriverEventListener] [main] 75: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='百度下']"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//input[@value='百度下']}
+Session ID: 1fac5966b635b37a94e8d6a48879d25c
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir14632_23164}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 17:21:28 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:27:52 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:27:57 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:28:00 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:28:00 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:28:04 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:28:04 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:28:43 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:28:47 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:28:51 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:28:51 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:28:54 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:28:54 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:28:55 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:28:56 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:28:59 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:28:59 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:29:00 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:29:00 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:29:03 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:29:03 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:29:04 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:29:05 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:29:08 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:29:08 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:30:15 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:30:20 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:30:24 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:30:25 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:30:28 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:30:30 ERROR  [base.MyWebDriverEventListener] [main] 75: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Driver info: driver.version: EventFiringWebDriver
+2016-11-07 17:30:30 ERROR  [base.MyWebDriverEventListener] [main] 75: Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Driver info: driver.version: EventFiringWebDriver
+2016-11-07 17:30:30 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:34:42 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:34:47 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:34:50 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:34:50 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:34:53 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:34:53 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:37:57 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:38:02 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:38:06 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:38:06 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:38:08 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:38:08 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:38:09 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:38:09 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:38:10 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:38:10 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:39:38 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:39:43 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:39:46 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:39:46 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:39:49 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:39:49 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 17:39:49 ERROR  [base.MyWebDriverEventListener] [main] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 7b235db0369e05edcd3475d9f54697d4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10684_22525}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 17:39:50 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:39:50 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:39:51 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:39:54 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:39:54 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 17:39:54 ERROR  [base.MyWebDriverEventListener] [main] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 40 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 7b235db0369e05edcd3475d9f54697d4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10684_22525}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 17:39:54 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:39:55 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:39:55 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:39:58 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:39:58 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 17:39:58 ERROR  [base.MyWebDriverEventListener] [main] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 38 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 7b235db0369e05edcd3475d9f54697d4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10684_22525}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 17:39:58 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:39:59 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:39:59 INFO   [base.MyWebDriverEventListener] [main] 38: 即将点击按钮：百度一下
+2016-11-07 17:40:02 INFO   [base.MyWebDriverEventListener] [main] 55: afterClickOn is worked!
+2016-11-07 17:40:02 ERROR  [base.MyWebDriverEventListener] [main] 70: 获取到的错误方法是：testcase.DebugCase2.test
+2016-11-07 17:40:02 ERROR  [base.MyWebDriverEventListener] [main] 75: stale element reference: element is not attached to the page document
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 43 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Session ID: 7b235db0369e05edcd3475d9f54697d4
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10684_22525}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-07 17:40:03 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:53:58 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:54:03 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:54:06 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:54:06 ERROR  [base.MyTestngListener] [main] 40: 用例出错，截图失败
+java.lang.NullPointerException
+	at util.ScreenShot.simpleShot(ScreenShot.java:30)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:37)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-07 17:54:06 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：null
+2016-11-07 17:54:06 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:54:07 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:54:08 ERROR  [base.MyTestngListener] [main] 40: 用例出错，截图失败
+java.lang.NullPointerException
+	at util.ScreenShot.simpleShot(ScreenShot.java:30)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:37)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-07 17:54:08 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：null
+2016-11-07 17:54:08 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:54:09 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:54:09 ERROR  [base.MyTestngListener] [main] 40: 用例出错，截图失败
+java.lang.NullPointerException
+	at util.ScreenShot.simpleShot(ScreenShot.java:30)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:37)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-07 17:54:09 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：null
+2016-11-07 17:54:09 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:54:10 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:54:11 ERROR  [base.MyTestngListener] [main] 40: 用例出错，截图失败
+java.lang.NullPointerException
+	at util.ScreenShot.simpleShot(ScreenShot.java:30)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:37)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-07 17:54:11 INFO   [base.MyTestngListener] [main] 42: 用例失败，截图成功，截图文件路径：null
+2016-11-07 17:54:11 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:55:44 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:55:50 INFO   [base.SetUpProAndBrowser] [main] 52: ChromeDriver has been started!
+2016-11-07 17:55:53 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:55:53 INFO   [base.MyTestngListener] [main] 41: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:55:53 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:55:55 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:55:56 INFO   [base.MyTestngListener] [main] 41: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:55:56 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:55:56 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:55:57 INFO   [base.MyTestngListener] [main] 41: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:55:57 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:55:58 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:55:59 INFO   [base.MyTestngListener] [main] 41: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:55:59 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!
+2016-11-07 17:59:05 INFO   [base.SetUpProAndBrowser] [main] 75: property file C:\GitHub\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-07 17:59:38 INFO   [base.SetUpProAndBrowser] [main] 59: IEDriver has been started!
+2016-11-07 17:59:45 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:59:47 INFO   [base.MyTestngListener] [main] 44: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:59:47 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:59:48 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:59:50 INFO   [base.MyTestngListener] [main] 44: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:59:50 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:59:51 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:59:53 INFO   [base.MyTestngListener] [main] 44: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:59:53 INFO   [base.MyTestngRetry] [main] 17: test will be retried!!!
+2016-11-07 17:59:54 INFO   [base.MyWebDriverEventListener] [main] 61: Navigate to the url is :https://www.baidu.com
+2016-11-07 17:59:55 INFO   [base.MyTestngListener] [main] 44: 用例失败，截图成功，截图文件路径：./test-output/errorImage
+2016-11-07 17:59:55 INFO   [testcase.DebugCase2] [main] 33: broswer is tear down!

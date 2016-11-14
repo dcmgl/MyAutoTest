@@ -1,0 +1,120 @@
+2016-11-09 15:13:53 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:13:55 ERROR  [base.MyTestngListener] [main] 44: 用例出错，截图失败
+ java.lang.NullPointerException
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:212)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at util.ScreenShot.ImgShot(ScreenShot.java:103)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:41)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-09 15:13:56 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:13:57 ERROR  [base.MyTestngListener] [main] 44: 用例出错，截图失败
+ java.lang.NullPointerException
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:212)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at util.ScreenShot.ImgShot(ScreenShot.java:103)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:41)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-09 15:13:57 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:13:58 ERROR  [base.MyTestngListener] [main] 44: 用例出错，截图失败
+ java.lang.NullPointerException
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:212)
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+	at util.ScreenShot.ImgShot(ScreenShot.java:103)
+	at base.MyTestngListener.onTestFailure(MyTestngListener.java:41)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1895)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1049)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1254)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-09 15:16:55 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:16:59 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:17:01 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:25:14 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:25:17 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:25:19 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:26:16 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:26:20 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:26:22 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:34:02 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:34:05 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:34:06 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:47:43 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:47:46 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:47:48 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:48:57 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:49:01 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:49:03 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:50:16 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:50:19 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:50:21 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:52:12 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:52:17 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:52:19 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:53:27 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:53:32 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:53:34 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:55:48 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:55:52 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:55:54 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:56:47 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:56:51 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:56:52 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:58:49 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 2016-11-09 15:58:53 ERROR  [base.MyTestngListener] [main] 22: expected [baidu] but found [百度一下]
+ 

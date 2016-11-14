@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="tests" parallel="none">
+  <test name="Test">
+  	<listeners>
+  		<listener class-name="base.TestCaseListener" />
+  	</listeners>
+  	<classes>
+  		<class name="testcase.DebugCase"></class>
+  	</classes>
+  </test><!-- Test -->
+</suite> <!-- Suite -->

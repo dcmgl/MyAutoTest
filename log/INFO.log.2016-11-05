@@ -1,0 +1,884 @@
+2016-11-04 10:44:03 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 10:44:16 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 10:47:20 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 10:47:25 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 10:49:02 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 10:49:08 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 10:50:30 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 10:50:37 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 11:14:22 INFO   [base.MyEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-04 11:14:22 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:14:24 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:14:27 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 11:14:31 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 11:14:31 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:14:33 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:16:41 INFO   [base.MyEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-04 11:16:41 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:16:43 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:16:46 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 11:16:50 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 11:16:50 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:16:52 INFO   [base.MyEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 11:24:21 INFO   [base.SetUpProAndBrowser] [main] 64: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 11:24:26 INFO   [base.SetUpProAndBrowser] [main] 41: ChromeDriver has been started!
+2016-11-04 11:24:28 INFO   [base.MyEventListener] [main] 31: Navigate to the url is :http://192.168.186.66
+2016-11-04 11:24:28 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:24:29 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:24:31 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 11:24:33 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 11:26:09 INFO   [base.SetUpProAndBrowser] [main] 64: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 11:26:14 INFO   [base.SetUpProAndBrowser] [main] 41: ChromeDriver has been started!
+2016-11-04 11:26:16 INFO   [base.MyEventListener] [main] 31: Navigate to the url is :http://192.168.186.66
+2016-11-04 11:26:16 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:26:17 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:26:18 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 11:26:20 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 11:26:22 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 11:26:24 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 11:26:24 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:26:25 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:26:27 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 11:26:27 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :查询 and 
+2016-11-04 11:26:28 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :重置 and 
+2016-11-04 11:26:33 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :null and 资产维护
+2016-11-04 11:26:38 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :null and 探索任务管理
+2016-11-04 11:29:37 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 11:29:41 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 11:29:43 INFO   [base.MyEventListener] [main] 31: Navigate to the url is :http://192.168.186.66
+2016-11-04 11:29:44 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:29:45 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:29:46 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 11:29:48 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 11:29:51 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 11:29:53 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 11:29:53 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:29:54 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:29:55 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 11:29:56 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :查询 and 
+2016-11-04 11:29:56 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :重置 and 
+2016-11-04 11:30:01 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 11:31:58 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 11:32:03 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 11:32:05 INFO   [base.MyEventListener] [main] 31: Navigate to the url is :http://192.168.186.66
+2016-11-04 11:32:05 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:32:06 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:32:08 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 11:32:10 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 11:32:12 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 11:32:15 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 11:32:15 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:32:16 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 11:32:18 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 11:32:19 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :查询 and 
+2016-11-04 11:32:20 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :重置 and 
+2016-11-04 11:32:21 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :查询 and 
+2016-11-04 11:32:27 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 13:50:11 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 13:50:16 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 13:50:18 INFO   [base.MyEventListener] [main] 31: Navigate to the url is :http://192.168.186.66
+2016-11-04 13:50:18 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 13:50:20 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 13:50:21 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 13:50:23 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 13:50:25 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 13:50:28 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 13:50:28 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 13:50:29 INFO   [base.MyEventListener] [main] 17: beforeChangeValueOf is worked!
+2016-11-04 13:50:30 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 13:50:31 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :查询 and 
+2016-11-04 13:50:33 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :重置 and 
+2016-11-04 13:50:34 INFO   [base.MyEventListener] [main] 25: beforeClickOn get the value and text is :查询 and 
+2016-11-04 13:50:39 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:11:46 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 14:11:51 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 14:11:52 INFO   [base.MyEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-04 14:11:53 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:11:54 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:11:55 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 14:11:58 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 14:11:59 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 14:12:02 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 14:12:02 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:12:04 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:12:05 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 14:12:06 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-04 14:12:07 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-04 14:12:08 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-04 14:12:14 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:17:30 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 14:17:36 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 14:17:38 INFO   [base.MyEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-04 14:17:38 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:17:39 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:17:40 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 14:17:43 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 14:17:44 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 14:17:47 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 14:17:47 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:17:48 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:17:49 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 14:17:50 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-04 14:17:52 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :重置 and 
+2016-11-04 14:17:52 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :查询 and 
+2016-11-04 14:17:58 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:29:30 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 14:29:35 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 14:29:37 INFO   [base.MyEventListener] [main] 32: Navigate to the url is :http://192.168.186.66
+2016-11-04 14:29:37 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:29:38 INFO   [base.MyEventListener] [main] 18: beforeChangeValueOf is worked!
+2016-11-04 14:29:39 INFO   [base.MyEventListener] [main] 26: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 14:29:41 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 14:29:51 ERROR  [base.MyEventListener] [main] 62: no such element: Unable to locate element: {"method":"id","selector":"amr_home_view"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=amr_home_view}
+Session ID: 23d5599a83578a1119875117444d85ac
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9708_16072}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:29:51 ERROR  [pages.AmrPage] [main] 90: 上方菜单没有展示！！！
+org.openqa.selenium.TimeoutException: Timed out after 10 seconds waiting for pages.AmrPage$1@37b9f7e8
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:79)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at pages.AmrPage.waitElement(AmrPage.java:77)
+	at pages.AmrPage.goToUnknowAsset(AmrPage.java:97)
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 14:30:01 ERROR  [base.MyEventListener] [main] 62: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 23d5599a83578a1119875117444d85ac
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9708_16072}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:30:01 ERROR  [base.MyEventListener] [main] 62: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 23d5599a83578a1119875117444d85ac
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9708_16072}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:30:01 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:30:02 ERROR  [testcase.DebugCase] [main] 39: 操作失败
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 23d5599a83578a1119875117444d85ac
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9708_16072}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:184)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy10.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:48)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators.addAll(Iterators.java:362)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:160)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:144)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:506)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:213)
+	at util.JsTool.displayMenu(JsTool.java:11)
+	at pages.AmrPage.goToUnknowAsset(AmrPage.java:102)
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 14:30:02 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:38:43 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 14:38:49 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 14:38:51 INFO   [base.MyEventListener] [main] 34: Navigate to the url is :http://192.168.186.66
+2016-11-04 14:38:51 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 14:38:52 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 14:38:54 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 14:38:55 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 14:39:05 ERROR  [base.MyEventListener] [main] 89: no such element: Unable to locate element: {"method":"id","selector":"amr_home_view"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.04 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=amr_home_view}
+Session ID: 9dc830f9fcc6a2c427c6131ca28a2366
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9508_7266}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:39:05 ERROR  [pages.AmrPage] [main] 90: 上方菜单没有展示！！！
+org.openqa.selenium.TimeoutException: Timed out after 10 seconds waiting for pages.AmrPage$1@2c97c9cf
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:79)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at pages.AmrPage.waitElement(AmrPage.java:77)
+	at pages.AmrPage.goToUnknowAsset(AmrPage.java:97)
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 14:39:15 ERROR  [base.MyEventListener] [main] 89: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 9dc830f9fcc6a2c427c6131ca28a2366
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9508_7266}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:39:15 ERROR  [base.MyEventListener] [main] 89: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 9dc830f9fcc6a2c427c6131ca28a2366
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9508_7266}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:39:15 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:39:17 ERROR  [testcase.DebugCase] [main] 39: 操作失败
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.06 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 9dc830f9fcc6a2c427c6131ca28a2366
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9508_7266}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:184)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy10.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:48)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators.addAll(Iterators.java:362)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:160)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:144)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:506)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:213)
+	at util.JsTool.displayMenu(JsTool.java:11)
+	at pages.AmrPage.goToUnknowAsset(AmrPage.java:102)
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 14:39:17 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:43:26 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 14:43:32 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 14:43:33 INFO   [base.MyEventListener] [main] 34: Navigate to the url is :http://192.168.186.66
+2016-11-04 14:43:33 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 14:43:35 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 14:43:36 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 14:43:37 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 14:43:47 ERROR  [base.MyEventListener] [main] 70: no such element: Unable to locate element: {"method":"id","selector":"amr_home_view"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.07 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=amr_home_view}
+Session ID: 71532fb574cf1b6bb49ff40883a29b13
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7916_24365}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:43:47 ERROR  [pages.AmrPage] [main] 90: 上方菜单没有展示！！！
+org.openqa.selenium.TimeoutException: Timed out after 10 seconds waiting for pages.AmrPage$1@5b8174f8
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+Driver info: org.openqa.selenium.support.events.EventFiringWebDriver
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:79)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at pages.AmrPage.waitElement(AmrPage.java:77)
+	at pages.AmrPage.goToUnknowAsset(AmrPage.java:97)
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 14:43:57 ERROR  [base.MyEventListener] [main] 70: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 71532fb574cf1b6bb49ff40883a29b13
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7916_24365}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:43:57 ERROR  [base.MyEventListener] [main] 70: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 71532fb574cf1b6bb49ff40883a29b13
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7916_24365}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 14:43:57 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 14:43:59 ERROR  [testcase.DebugCase] [main] 39: 操作失败
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//ul[@id='mainNaveMenu']/li[2]/ul"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.03 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=xpath, value=//ul[@id='mainNaveMenu']/li[2]/ul}
+Session ID: 71532fb574cf1b6bb49ff40883a29b13
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7916_24365}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:449)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:357)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:184)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy10.getWrappedElement(Unknown Source)
+	at org.openqa.selenium.remote.internal.WebElementToJsonConverter.apply(WebElementToJsonConverter.java:48)
+	at com.google.common.collect.Iterators$8.transform(Iterators.java:799)
+	at com.google.common.collect.TransformedIterator.next(TransformedIterator.java:48)
+	at com.google.common.collect.Iterators.addAll(Iterators.java:362)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:160)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:144)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:506)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.executeScript(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.executeScript(EventFiringWebDriver.java:213)
+	at util.JsTool.displayMenu(JsTool.java:11)
+	at pages.AmrPage.goToUnknowAsset(AmrPage.java:102)
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 14:43:59 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:00:23 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:00:29 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:00:33 INFO   [base.MyEventListener] [main] 34: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:00:33 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:00:34 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:00:36 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:00:38 INFO   [pages.LoginPage] [main] 33: 登录失败窗口提示信息是：登录帐号或密码不匹配，请重新输入！
+2016-11-04 15:00:38 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:00:40 INFO   [testcase.DebugCase] [main] 19: 登录成功！
+2016-11-04 15:00:40 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:00:40 ERROR  [testcase.DebugCase] [main] 39: 操作失败
+java.lang.NullPointerException
+	at testcase.DebugCase.loginAmr(DebugCase.java:20)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 15:00:40 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:01:56 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:02:02 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:02:05 INFO   [base.MyEventListener] [main] 34: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:02:05 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:02:06 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:02:08 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:02:21 ERROR  [base.MyEventListener] [main] 65: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-04 15:02:21 ERROR  [base.MyEventListener] [main] 71: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.40 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: ba3e718588ac7bd92168f737a041ac43
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10116_20778}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 15:02:21 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:02:22 ERROR  [testcase.DebugCase] [main] 39: 操作失败
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.40 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: ba3e718588ac7bd92168f737a041ac43
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10116_20778}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:393)
+	at org.openqa.selenium.By$ById.findElement(By.java:214)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:184)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+	at pages.LoginPage.loginAmr(LoginPage.java:32)
+	at testcase.DebugCase.loginAmr(DebugCase.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 15:02:22 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:05:21 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:05:27 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:05:29 INFO   [base.MyEventListener] [main] 34: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:05:30 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:05:31 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:05:33 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:05:46 ERROR  [base.MyEventListener] [main] 65: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-04 15:05:47 ERROR  [base.MyEventListener] [main] 71: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: cee1eb269af30df3b26c32cccacb7719
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10976_12538}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 15:05:47 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:05:48 ERROR  [testcase.DebugCase] [main] 39: 操作失败
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.14 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: cee1eb269af30df3b26c32cccacb7719
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10976_12538}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:204)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:156)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:599)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:352)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:393)
+	at org.openqa.selenium.By$ById.findElement(By.java:214)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:344)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:101)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:184)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:59)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:37)
+	at com.sun.proxy.$Proxy10.isDisplayed(Unknown Source)
+	at pages.LoginPage.loginAmr(LoginPage.java:32)
+	at testcase.DebugCase.loginAmr(DebugCase.java:18)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 15:05:48 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:10:32 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:10:37 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:10:40 INFO   [base.MyEventListener] [main] 34: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:10:40 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:10:41 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:10:43 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:10:57 ERROR  [base.MyEventListener] [main] 65: 获取到的错误方法是：testcase.DebugCase.loginAmr
+2016-11-04 15:10:57 ERROR  [base.MyEventListener] [main] 71: no such element: Unable to locate element: {"method":"id","selector":"loginName"}
+  (Session info: chrome=53.0.2785.143)
+  (Driver info: chromedriver=2.19.346078 (6f1f0cde889532d48ce8242342d0b84f94b114a1),platform=Windows NT 6.1 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10.57 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'JOLIN-20150326Q', ip: '192.168.15.0', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_67'
+*** Element info: {Using=id, value=loginName}
+Session ID: 9cd0af7f65fdb19f3a9701bd58056a7e
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, browserName=chrome, chrome={userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir4560_25006}, rotatable=false, locationContextEnabled=true, mobileEmulationEnabled=false, version=53.0.2785.143, takesHeapSnapshot=true, cssSelectorsEnabled=true, databaseEnabled=false, handlesAlerts=true, browserConnectionEnabled=false, webStorageEnabled=true, nativeEvents=true, hasTouchScreen=false, applicationCacheEnabled=false, takesScreenshot=true}]
+2016-11-04 15:10:57 INFO   [pages.LoginPage] [main] 40: 登录成功！
+2016-11-04 15:10:57 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :null and 未知资产
+2016-11-04 15:11:00 INFO   [testcase.DebugCase] [main] 23: 进入问题资产成功
+2016-11-04 15:11:00 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:11:02 INFO   [base.MyEventListener] [main] 20: beforeChangeValueOf is worked!
+2016-11-04 15:11:03 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :1 and 已接入
+2016-11-04 15:11:05 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :查询 and 
+2016-11-04 15:11:06 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :重置 and 
+2016-11-04 15:11:07 INFO   [base.MyEventListener] [main] 28: beforeClickOn get the value and text is :查询 and 
+2016-11-04 15:11:13 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:42:13 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:42:18 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:42:20 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:42:21 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:42:22 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:42:23 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:42:25 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：登录帐号或密码不匹配，请重新输入！
+2016-11-04 15:42:25 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:42:27 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:42:27 ERROR  [testcase.DebugCase] [main] 40: 操作失败
+java.lang.NullPointerException
+	at testcase.DebugCase.loginAmr(DebugCase.java:21)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:335)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:330)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+2016-11-04 15:42:27 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:44:49 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:44:53 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:44:55 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:44:55 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:44:56 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:44:57 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:44:58 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：登录帐号或密码不匹配，请重新输入！
+2016-11-04 15:44:58 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:45:00 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:46:02 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:46:06 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:46:08 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:46:08 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:46:09 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:46:10 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:46:12 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：登录帐号或密码不匹配，请重新输入！
+2016-11-04 15:46:12 INFO   [base.SetUpProAndBrowser] [main] 36: 浏览器即将关闭
+2016-11-04 15:47:21 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:47:25 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:47:27 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:47:27 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:47:28 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:47:29 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:47:31 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：登录帐号或密码不匹配，请重新输入！
+2016-11-04 15:59:24 INFO   [base.SetUpProAndBrowser] [main] 72: property file C:\TestNG_WORKSPACE\MyAutoTest\.\conf\system.properties is loaded!!
+2016-11-04 15:59:29 INFO   [base.SetUpProAndBrowser] [main] 49: ChromeDriver has been started!
+2016-11-04 15:59:32 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:59:32 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:33 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:35 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:59:36 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：登录帐号或密码不匹配，请重新输入！
+2016-11-04 15:59:36 INFO   [base.MyTestngRetry] [main] 17: loginAmr will be retried!!!
+2016-11-04 15:59:36 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:59:37 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:37 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:39 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:59:40 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：账号被锁定中，不允许登录
+2016-11-04 15:59:40 INFO   [base.MyTestngRetry] [main] 17: loginAmr will be retried!!!
+2016-11-04 15:59:40 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:59:41 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:42 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:43 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:59:44 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：账号被锁定中，不允许登录
+2016-11-04 15:59:44 INFO   [base.MyTestngRetry] [main] 17: loginAmr will be retried!!!
+2016-11-04 15:59:45 INFO   [base.MyWebDriverEventListener] [main] 33: Navigate to the url is :http://192.168.186.66
+2016-11-04 15:59:45 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:46 INFO   [base.MyWebDriverEventListener] [main] 19: beforeChangeValueOf is worked!
+2016-11-04 15:59:47 INFO   [base.MyWebDriverEventListener] [main] 27: beforeClickOn get the value and text is :登 录 and 
+2016-11-04 15:59:48 INFO   [pages.LoginPage] [main] 35: 登录失败,窗口提示信息是：账号被锁定中，不允许登录
