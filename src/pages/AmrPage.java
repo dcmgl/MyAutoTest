@@ -2,6 +2,7 @@ package pages;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.ElementNotVisibleException;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -40,19 +41,21 @@ public class AmrPage {
 	public WebElement assetManagerView;
 	
 	@FindBy(xpath = "//ul[@id='mainNaveMenu']/li[2]/ul")
-	public static  WebElement problemCenter;
+	public   WebElement problemCenter;
 	
 	@FindBy(xpath = "//ul[@id='mainNaveMenu']/li[3]/ul")
-	public static  WebElement taskManager ;
+	public   WebElement taskManager ;
 	
 	@FindBy(xpath = "//ul[@id='mainNaveMenu']/li[4]/ul")
-	public static  WebElement assetManager;
+	public   WebElement assetManager;
 	
 	@FindBy(xpath = "//ul[@id='mainNaveMenu']/li[5]/ul")
-	public static  WebElement collectManager;
+	public   WebElement collectManager;
 	
 	@FindBy(xpath = "//ul[@id='mainNaveMenu']/li[6]/ul")
-	public static  WebElement systemManager;
+	public   WebElement systemManager;
+	
+	public WebElement[] allMenu={problemCenter,taskManager,assetManager,collectManager,systemManager};
 	
 	public AmrPage(WebDriver driver){
 		this.driver = driver;
@@ -92,37 +95,79 @@ public class AmrPage {
 	}
 	
 	public void goToUnknowAsset(){
-		try {
-			waitElement();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		int count=0;
+		while(true){
+			try {
+				waitElement();
+				JsTool.displayMenu(driver, problemCenter);
+				unknowAsset.click();
+				break;
+			}catch (ElementNotVisibleException e){
+				count++;
+				log.info("第"+count+"次没有找到，继续");
+				driver.switchTo().defaultContent();
+				if(count<3){
+					continue;
+				}else{
+					break;
+				}
+			}catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				break;
+			}
 		}
-		JsTool.displayMenu(driver, problemCenter);
-		unknowAsset.click();
 		
 	}
 	
 	public void goToTaskManager(){
-		try {
-			waitElement();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		int count=0;
+		while(true){
+			try {
+				waitElement();
+				JsTool.displayMenu(driver, taskManager);
+				taskManagerView.click();
+				break;
+			}catch (ElementNotVisibleException e){
+				count++;
+				log.info("第"+count+"次没有找到，继续");
+				driver.switchTo().defaultContent();
+				if(count<3){
+					continue;
+				}else{
+					break;
+				}
+			}catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				break;
+			}
 		}
-		JsTool.displayMenu(driver, taskManager);
-		taskManagerView.click();
 	}
 	
 	public void goToAssetManager(){
-		try {
-			waitElement();
-		} catch (Exception e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+		int count=0;
+		while(true){
+			try {
+				waitElement();
+				JsTool.displayMenu(driver, assetManager);
+				assetManagerView.click();
+				break;
+			}catch (ElementNotVisibleException e){
+				count++;
+				log.info("第"+count+"次没有找到，继续");
+				driver.switchTo().defaultContent();
+				if(count<3){
+					continue;
+				}else{
+					break;
+				}
+			}catch (Exception e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+				break;
+			}
 		}
-		JsTool.displayMenu(driver, assetManager);
-		assetManagerView.click();
 	}
 
 }

@@ -32,4 +32,8 @@ public class TestProperties {
 		
 	}
 	
+	public static String getProperty(String key){
+		return TestProperties.getProperties().getProperty(key).trim();
+	}
+	
 }

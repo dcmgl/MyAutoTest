@@ -31,15 +31,19 @@ public class LoginPage {
 		userPass.sendKeys(passWord);
 		loginButton.click();
 		try{
-			if(loginUser.isDisplayed()){
-				log.info("登录失败,窗口提示信息是："+driver.findElement(By.id("spanIpId")).getText());
+			AmrPage ap = new AmrPage(driver);
+			if(ap.homePage.isDisplayed()){
+				log.info("登录成功！");
 //				SetUpProAndBrowser.tearDownBroswer();
+				return ap;
+			}else{
+				log.info("没有展示首页");
 				return null;
 			}
 		}catch (NoSuchElementException e){
-			log.info("登录成功！");
+			log.info("登录失败,窗口提示信息是："+driver.findElement(By.id("spanIpId")).getText());
+			return null;
 		}
-		return new AmrPage(driver);
 	}
 	public  LoginPage(WebDriver driver){
 		this.driver = driver;

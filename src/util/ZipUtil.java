@@ -86,7 +86,7 @@ public class ZipUtil {
 			}
 
 			String zipFilePath = zipPath + File.separator + zipFileName;
-			File zipFile = new File(zipFileName);
+			File zipFile = new File(zipFilePath);
 			if (zipFile.exists()) {
 				zipFile.delete();
 			}

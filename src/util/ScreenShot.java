@@ -130,12 +130,15 @@ public class ScreenShot {
 			System.out.println("文字过长，截图文字展示不完整");
 		}
 		g.drawString(text, textX, textY);
-		Rectangle2D rectangelT = fm.getStringBounds(t.getMessage(), null);
+		Rectangle2D rectangelT = fm.getStringBounds(t.getClass().toString(), null);
 		textHeigth = rectangelT.getHeight();
 		textWidth = rectangelT.getWidth();
 		textX =(int) (width - textWidth - 5);
 		textY = (int)(heigth - textHeigth - 3);
-		g.drawString(t.getMessage(), textX, textY);
+		if(textX<0 || textY<0){
+			System.out.println("文字过长，截图文字展示不完整");
+		}
+		g.drawString(t.getClass().toString(), textX, textY);
 		FileOutputStream out;
 		try {
 			out = new FileOutputStream(fileFullPath);

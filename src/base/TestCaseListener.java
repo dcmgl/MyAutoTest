@@ -2,6 +2,7 @@ package base;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
+import java.util.List;
 import java.util.Properties;
 
 import org.apache.log4j.Logger;
@@ -10,12 +11,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.events.WebDriverEventListener;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.IAnnotationTransformer;
+import org.testng.IResultMap;
 import org.testng.IRetryAnalyzer;
+import org.testng.ITestContext;
+import org.testng.ITestNGMethod;
 import org.testng.ITestResult;
 import org.testng.Reporter;
 import org.testng.TestListenerAdapter;
@@ -24,6 +29,7 @@ import org.testng.annotations.ITestAnnotation;
 import testcase.TestCase;
 import util.JsTool;
 import util.ScreenShot;
+import util.SendMail;
 /**
  * 此类继承了TestListenerAdapter抽象类并且实现了WebDriverEventListener,IRetryAnalyzer,IAnnotationTransformer接口
  * 可以监听testng事件和webdriver事件,实现失败重试
@@ -36,14 +42,13 @@ public class TestCaseListener extends TestListenerAdapter implements WebDriverEv
 	private TestCase testCase = null;
 	Exception e = null;
 	private int retryCount = 0;
-	private int maxRetryCount = Integer.parseInt(pro.getProperty("listener.retry.maxCount"));
+	private int maxRetryCount = Integer.parseInt(pro.getProperty("listener.retry.maxCount"));//获取最大重试次数
 
 	@Override
 	public void beforeChangeValueOf(WebElement arg0, WebDriver arg1) {
 		// TODO Auto-generated method stub
 		arg0.clear();
-		this.
-		log.info("beforeChangeValueOf is worked!");
+//		log.info("beforeChangeValueOf is worked!");
 		JsTool.highLighElement(arg1, arg0,500);
 	}
 	
@@ -55,6 +60,7 @@ public class TestCaseListener extends TestListenerAdapter implements WebDriverEv
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		log.info("填入的信息是："+JsTool.getInputValue(driver, element));
 		
 	}
 
@@ -98,11 +104,10 @@ public class TestCaseListener extends TestListenerAdapter implements WebDriverEv
 			}
 		}
 		e = (Exception)throwable;
-		log.error(e.getMessage());
+		log.error(e.getMessage(),e);
 		
 	}
-	
-	
+
 	@Override
 	public void onTestFailure(ITestResult tr){
 		if(tr.getThrowable().getMessage().contains("alert")){
@@ -139,22 +144,47 @@ public class TestCaseListener extends TestListenerAdapter implements WebDriverEv
 		ScreenShot ss = null;
 		try {
 			ss = new ScreenShot(testCase.driver, outputImg);
-			ss.ImgShot("用例"+tr.getInstanceName()+"的错误截图",tr.getThrowable());
-			log.info("用例"+testCase.getClass().getName()+"执行失败，截图路径："+ss.getFileFullPath());
+			ss.ImgShot("用例"+tr.getInstanceName()+"."+tr.getMethod().getMethodName()+"的错误截图",tr.getThrowable());
+			log.info("用例"+tr.getInstanceName()+"."+tr.getMethod().getMethodName()+"执行失败，截图路径："+ss.getFileFullPath());
 		} catch (Exception e) {
 			// TODO: handle exception
 			log.error("用例"+testCase.getClass().getName()+"出错，截图失败",e);
 		
 		}
+
 	}
 	
 	
 	@Override
 	public void onTestSuccess(ITestResult tr){
-		log.info("用例"+tr.getMethod()+"执行成功了");
-		log.info(this.getPassedTests());
+		log.info("用例"+tr.getMethod().toString().split("\\[")[0]+"执行成功了");
 	}
+	
+	@Override
+	public void onFinish(org.testng.ITestContext testContext) {
+		super.onFinish(testContext);
+		IResultMap passResult = testContext.getPassedTests();
+		IResultMap failedResult = testContext.getFailedTests();
+		IResultMap skipedResult = testContext.getSkippedTests();
+		for(ITestNGMethod testMethod : passResult.getAllMethods()){
+			log.info(testMethod.getRealClass().toString().split(" ")[1]+"."+testMethod.getMethodName()+"   PASSED!");
+		}
+		for(ITestNGMethod testMethod : failedResult.getAllMethods()){
+			log.info(testMethod.getRealClass().toString().split(" ")[1]+"."+testMethod.getMethodName()+"   FAILED!");
+		}
+		for(ITestNGMethod testMethod : skipedResult.getAllMethods()){
+			log.info(testMethod.getRealClass().toString().split(" ")[1]+"."+testMethod.getMethodName()+"   SKIPED!");
+		}
+		try {
+			SendMail mail = new SendMail("c:\\system.properties");
+			mail.sendMail();
+			log.info("邮件发送成功");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+		}
 
+	}
+	
 	@Override
 	public void afterFindBy(By arg0, WebElement arg1, WebDriver arg2) {
 		// TODO Auto-generated method stub
@@ -201,7 +231,7 @@ public class TestCaseListener extends TestListenerAdapter implements WebDriverEv
 	@Override
 	public void beforeNavigateTo(String arg0, WebDriver arg1) {
 		// TODO Auto-generated method stub
-		
+		arg1.switchTo().window(arg1.getWindowHandle());
 	}
 
 	@Override

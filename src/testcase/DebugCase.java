@@ -16,16 +16,33 @@ import base.MyRetryListener;
 import base.SetUpProAndBrowser;
 
 public class DebugCase extends TestCase{
-	@Test
+//	@Test
 	public void loginAmr() throws InterruptedException{
-			driver.get("http://192.168.186.66");
+		System.out.println("线程ID是："+Thread.currentThread().getId());	
+		driver.get("http://192.168.186.66");
 			LoginPage lp = new LoginPage(driver);
 			AmrPage amr = lp.loginAmr("root", "ultrasafe", driver);
 			amr.goToAssetManager();
 			AssetManagerView amv = new AssetManagerView(driver);
 			amv.delBtn.click();
 			amv.Dialog.findElement(By.linkText("取消")).click();
-			amr.goToTaskManager();
+			
+	}
+	
+	@Test
+	public void actionSome(){
+		try {
+			loginAmr();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		AmrPage amr = new AmrPage(driver);
+		amr.goToTaskManager();
+		amr.goToUnknowAsset();
+		UnknowAsset ua = new UnknowAsset(driver);
+		ua.ipNameInput.sendKeys("192.168");
+		ua.queryBtn.click();
 	}
 	
 }

@@ -38,7 +38,7 @@ public class MyTestngListener extends TestListenerAdapter {
 		ScreenShot ss = null;
 		try {
 			ss = new ScreenShot(testCase.driver, outputImg);
-			ss.ImgShot("ÓÃÀı"+tr.getInstanceName()+"µÄ´íÎó½ØÍ¼",tr.getThrowable());
+			ss.ImgShot("ÓÃÀı"+tr.getInstanceName()+"."+tr.getMethod().getMethodName()+"µÄ´íÎó½ØÍ¼",tr.getThrowable());
 			log.info("ÓÃÀı"+testCase.getClass().getName()+"Ö´ĞĞÊ§°Ü£¬½ØÍ¼Â·¾¶£º"+ss.getFileFullPath());
 		} catch (Exception e) {
 			// TODO: handle exception

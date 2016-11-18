@@ -1,5 +1,8 @@
 package testcase;
 
+import java.util.Date;
+import java.util.Iterator;
+
 import org.testng.annotations.BeforeClass;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -7,6 +10,9 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
+import org.testng.annotations.DataProvider;
+
+import util.TestData;
 
 import base.InitBrowser;
 import base.SetUpProAndBrowser;
@@ -23,8 +29,11 @@ public class TestCase {
 	 */
 	@BeforeTest
 	void caseBeforeTest(){
-		System.out.println("------------caseBeforeTest-----------------");
-		System.out.println("当前执行的类名称是："+this.getClass());
+//		long date = new Date().getTime();
+		int num =(int) (Math.random()*1000);
+		Thread.currentThread().setName(String.valueOf(num));
+		log.info("------------caseBeforeTest-----------------");
+		log.info("当前执行的类名称是："+this.getClass()+",对应名称是："+Thread.currentThread().getName());
 		driver = new InitBrowser().getDriver();
 	}
 	
@@ -46,4 +55,15 @@ public class TestCase {
 		this.throwAble = throwAble;
 	}
 	
+	@DataProvider(name = "searchData")
+	public Iterator<Object[]> provider(){
+		TestData testData = new TestData("C:\\TestNG_WORKSPACE\\Test1\\data\\userData.xls", "第二个");
+		return testData.iterator();
+	}
+	
+	@DataProvider(name = "searchData2")
+	public Iterator<Object[]> provider2(){
+		TestData testData = new TestData("C:\\TestNG_WORKSPACE\\Test1\\data\\userData.xls", "第一个");
+		return testData.iterator();
+	}
 }
