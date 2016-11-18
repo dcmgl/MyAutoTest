@@ -16,7 +16,7 @@ import base.MyRetryListener;
 import base.SetUpProAndBrowser;
 
 public class DebugCase extends TestCase{
-//	@Test
+	@Test
 	public void loginAmr() throws InterruptedException{
 		System.out.println("Ïß³ÌIDÊÇ£º"+Thread.currentThread().getId());	
 		driver.get("http://192.168.186.66");
@@ -29,14 +29,8 @@ public class DebugCase extends TestCase{
 			
 	}
 	
-	@Test
+	@Test(dependsOnMethods={"loginAmr"})
 	public void actionSome(){
-		try {
-			loginAmr();
-		} catch (InterruptedException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 		AmrPage amr = new AmrPage(driver);
 		amr.goToTaskManager();
 		amr.goToUnknowAsset();
